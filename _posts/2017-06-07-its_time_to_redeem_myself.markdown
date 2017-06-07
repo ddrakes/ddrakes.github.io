@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "**Its Time To Redeem Myself**"
-date:   2017-06-07 01:48:14 +0000
+date:   2017-06-06 21:48:15 -0400
 ---
 
  
@@ -14,6 +14,7 @@ My first semester I got like a 3.0 but second semester it went down hill. I can'
 Going back to that junior year career fair I stayed in contact with the project manager I had met for the remainder of college and throughout college (networking 101)! He told me I necessarily didn't need a construction degree and project management was more about relationships, communication, and business. So, I changed my major to [Interdisciplinary Studies](https://cisa.asu.edu/undergrad/proginfo/interdisciplinary-studieshttp://) with concentrations in business and psychology with a minor in urban planning. During my sophomore year I went to the career office all the time and was preparing for a interview with the company I met with back in high school for a project management internship. I was there so much my picture was in the career office and they even used it for career fairs. 
  
 ![](http://imgur.com/a/sb1gx)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sb1gx"><a href="//imgur.com/sb1gx"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
  
 The interview was going great until they asked me "What made you decide to add on the Urban Planning minor". I COMPLETELY bombed it no idea what I said but it was something stupid. I'm not sure but from that point I gave up on the hopes of being a project manager. 
  
