@@ -1,10 +1,10 @@
 # Site settings
-title: The "DDRAKES" Way
+title: The Developers Post 
 header-img: img/home-bg.png
 email: desmond.drakes@gmail.com
 copyright_name: ddrakes
 description: > # this means to ignore newlines until "baseurl:"
-  The Dev Journey
+  The Inside Scoop of a Developers Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ddrakes
